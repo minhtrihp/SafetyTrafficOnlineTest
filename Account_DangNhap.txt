@@ -1,0 +1,7 @@
+Admin (Level 1):
+email: hoangphamminhtri@gmail.com
+pass: 123456
+
+Student (Level 0):
+email: 1751010168tri@ou.edu.vn
+pass: 123456
